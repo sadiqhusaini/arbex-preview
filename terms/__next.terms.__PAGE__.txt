@@ -1,0 +1,55 @@
+1:"/arbex-preview/_next/static/chunks/0umf92h1sb77c.js"
+2:"LoadingBoundaryProvider"
+3:I[39756,["$1"],"$2"]
+4:"$Sreact.fragment"
+5:"/arbex-preview/_next/static/chunks/2h3rwy3rpk7ue.js"
+6:"/arbex-preview/_next/static/chunks/10snh8gi875gf.js"
+7:I[8418,["$5","$6"],"Providers"]
+8:I[6062,["$5","$6"],"Header"]
+9:I[39756,["$1"],"default"]
+a:"/arbex-preview/_next/static/chunks/25v7vnznb94q2.js"
+b:I[77659,["$5","$6","$a"],"default"]
+c:I[37457,["$1"],"default"]
+d:I[22016,["$5","$6"],""]
+e:I[5014,["$5","$6"],"default"]
+21:"ViewportBoundary"
+22:I[97367,["$1"],"$21"]
+23:"MetadataBoundary"
+24:I[97367,["$1"],"$23"]
+25:"$Sreact.suspense"
+:HL["/arbex-preview/_next/static/chunks/2sll3380f3h33.css","style"]
+10:X
+13:X
+13:C
+14:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$4","c",{"children":[["$","section",null,{"className":"section prose","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Breadcrumb","children":[["$","$Ld",null,{"href":"/","children":"Home"}],[["$","span","0",{"children":[" ","/"," ",["$","span",null,{"aria-current":"page","children":"Terms"}]]}]]]}],["$","p",null,{"className":"eyebrow","children":[["$","span",null,{}],"TERMS / DRAFT FOR OWNER REVIEW"]}],["$","h1",null,{"children":"A clear starting point."}],["$","div",null,{"className":"notice","children":"These website terms require legal review and completion with the legal business name, jurisdiction, and contact details before public launch."}],["$","h2",null,{"children":"Website information"}],["$","p",null,{"children":"Content explains proposed capabilities and ways to engage ARBEX. An inquiry does not create a service agreement. Scope, pricing, intellectual property, confidentiality, and delivery commitments require a separate written agreement."}],"$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e"]}],null,"$L1f"]}],"p":"$@20","v":null,"s":"$10"}}]]
+11:[["children",{"s":"terms","h":96,"d":{"r":["$","$4","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"p":"$@12","v":"$13","s":"$10"},"c":"$Q14"}]]
+0:{"t":{"t":{"s":"","h":84,"d":{"r":["$","$L3",null,{"loading":[["$","div","l",{"className":"loading","role":"status","children":"Bringing things together…"}],[],null],"children":["$","$4","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/arbex-preview/_next/static/chunks/2sll3380f3h33.css","precedence":"next"}],["$","script","script-0",{"src":"/arbex-preview/_next/static/chunks/2h3rwy3rpk7ue.js","async":true}],["$","script","script-1",{"src":"/arbex-preview/_next/static/chunks/10snh8gi875gf.js","async":true}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L7",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","div",null,{"className":"preview-banner","role":"note","children":"DESIGN PREVIEW · Forms and administration are disabled."}],["$","$L8",null,{}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ARBEX\",\"url\":\"https://sadiqhusaini.github.io/arbex-preview\"}"}}],["$","main",null,{"id":"main","children":["$","$L9",null,{"parallelRouterKey":"children","error":"$b","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/arbex-preview/_next/static/chunks/25v7vnznb94q2.js","async":true}]],"template":["$","$Lc",null,{}],"notFound":[["$","section",null,{"className":"section prose","children":[["$","p",null,{"className":"eyebrow","children":[["$","span",null,{}],"404 / A DIFFERENT DIRECTION"]}],["$","h1",null,{"children":["This page is",["$","br",null,{}],"still an idea."]}],["$","p",null,{"style":{"margin":"25px 0"},"children":"The page you’re looking for couldn’t be found. Explore our available solutions or head back home."}],["$","$Ld",null,{"className":"button ","href":"/","children":["Back to home",["$","$Le",null,{"icon":{"name":"arrow-up-right","size":24,"node":[["path",{"d":"M7 7h10v10","key":"1tivn9"}],["path",{"d":"M7 17 17 7","key":"1vkiza"}]]},"size":18}]]}]]}],[]]}]}],["$","footer",null,{"children":[["$","div",null,{"className":"footer-top","children":[["$","div",null,{"children":[["$","$Ld",null,{"href":"/","className":"wordmark","children":["arbex",["$","span",null,{"aria-hidden":"true","children":"✳"}]]}],["$","p",null,{"children":["One company. Multiple capabilities.",["$","br",null,{}],"Complete solutions."]}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Explore"}],["$","$Ld",null,{"href":"/services","children":"Services"}],["$","$Ld",null,{"href":"/solutions","children":"Solutions"}],["$","$Ld",null,{"href":"/work","children":"Our work"}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Discover"}],["$","$Ld",null,{"href":"/about","children":"About ARBEX"}],["$","$Ld",null,{"href":"/insights","children":"Insights"}],["$","$Ld",null,{"href":"/contact","children":["Get in touch ",["$","$Le",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"size":14}]]}]]}],["$","div",null,{"className":"footer-note","children":[["$","span",null,{"className":"status-dot"}]," Built for what’s next.",["$","p",null,{"children":["Technology. Creativity.",["$","br",null,{}],"Strategic thinking."]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":["© ",2026," ARBEX. All rights reserved."]}],["$","div",null,{"children":[["$","$Ld",null,{"href":"/privacy","children":"Privacy Policy"}],["$","$Ld",null,{"href":"/terms","children":"Terms of Use"}]]}],["$","span",null,{"children":["From Ideas to Impact."," ↗"]}]]}]]}]]}]}]}]]}]}],"p":"$@f","v":null,"s":"$10"},"c":"$Q11"},"h":{"r":["$","$4","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L24",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$25",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Terms of Use | ARBEX"}],["$","meta","1",{"name":"description","content":"We design, build, launch, and grow digital products and businesses through technology, creativity, and strategic solutions."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://sadiqhusaini.github.io/arbex-preview/terms/"}],["$","meta","4",{"property":"og:title","content":"Terms of Use | ARBEX"}],["$","meta","5",{"property":"og:description","content":"We design, build, launch, and grow digital products and businesses through technology, creativity, and strategic solutions."}],["$","meta","6",{"property":"og:site_name","content":"ARBEX"}],["$","meta","7",{"property":"og:image","content":"https://sadiqhusaini.github.io/arbex-preview/opengraph-image"}],"$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c"]}]}],null]}],null]}],"p":"$@2d","v":null,"s":"$10"}},"a":"$@2e","u":"$@2f","b":"oZ4LL9l2xwgtL57ujBG6L"}
+30:I[97367,["$1"],"OutletBoundary"]
+32:I[27201,["$1"],"IconMark"]
+15:["$","h2",null,{"children":"Demonstration content"}]
+16:["$","p",null,{"children":"Portfolio concepts and sample case studies are fictional and labeled as demonstrations. They are not client endorsements or verified delivery results. Editorial material is educational and does not establish company experience."}]
+17:["$","h2",null,{"children":"Proposed services"}]
+18:["$","p",null,{"children":"Finance and business services require business approval and any applicable professional or regulatory checks. This website does not claim licenses or guarantee legal, tax, financial, commercial, or marketing outcomes."}]
+19:["$","h2",null,{"children":"Acceptable use"}]
+1a:["$","p",null,{"children":"Do not misuse inquiry forms, attempt unauthorized access, upload harmful content, or interfere with the platform. Do not submit credentials or confidential personal financial records through public forms."}]
+1b:["$","h2",null,{"children":"Third-party services"}]
+1c:["$","p",null,{"children":"External platforms and tools have their own terms. Availability, platform approval, organic rankings, advertising performance, and commercial outcomes cannot be guaranteed."}]
+1d:["$","h2",null,{"children":"Contact"}]
+1e:["$","p",null,{"children":"Use the contact form for website questions. The owner must publish verified legal and contact information before launch."}]
+1f:["$","$L30",null,{"children":["$","$25",null,{"name":"Next.MetadataOutlet","children":"$@31"}]}]
+26:["$","meta","8",{"property":"og:type","content":"website"}]
+27:["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}]
+28:["$","meta","10",{"name":"twitter:title","content":"Terms of Use | ARBEX"}]
+29:["$","meta","11",{"name":"twitter:description","content":"We design, build, launch, and grow digital products and businesses through technology, creativity, and strategic solutions."}]
+2a:["$","meta","12",{"name":"twitter:image","content":"https://sadiqhusaini.github.io/arbex-preview/opengraph-image"}]
+2b:["$","link","13",{"rel":"icon","href":"/arbex-preview/icon.svg?icon.0i-qx1pldvk9p.svg","sizes":"any","type":"image/svg+xml"}]
+2c:["$","$L32","14",{}]
+10:300
+31:null
+2f:true
+10:C
+2e:0
+12:"$undefined"
+f:"$undefined"
+2d:"$undefined"
+20:"$undefined"
